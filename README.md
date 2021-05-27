@@ -1,4 +1,4 @@
-## Transfer service
+# Transfer service
 A demo service to handle transfers between two accounts.
 
 ### APIs
