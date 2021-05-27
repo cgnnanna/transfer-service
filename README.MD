@@ -1,7 +1,7 @@
-### Transfer service
+## Transfer service
 A demo service to handle transfers between two accounts.
 
-####APIs
+### APIs
 **create account**
 **get account (balances) by account id**
 **get all accounts(balances)**
